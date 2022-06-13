@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dedemasutti
-- 👀 I’m interested in big data, Data science, Machine learning, R, Python, Blockchain tech...
-- 🌱 I’m currently learning Data Science and AI
-- 💞️ I’m looking to collaborate on projects in Data SCience
+- 👀 I’m interested in AI, Deep Learning, Big data, Data science, Machine learning, Python, Blockchain tech...
+- 🌱 I’m currently working with AI projects in the area of computer vision.
+- 💞️ I’m looking to collaborate on projects in AI ,Data SCience.
 - 📫 How to reach me dedemasutti@gmail.com
 
 <!---
